@@ -113,9 +113,9 @@ Posso gerar o conteúdo de cada um para você, com Bootstrap incluído. Quer que
 🚀 RESUMO
 Você agora tem:
 
-✅ Laravel instalado
-✅ Banco de dados configurado
-✅ Model, Controller e Migration criados
-✅ Rotas funcionando
-⏳ Próximo: criar as telas Blade com formulários e listagem
+✅ Laravel instalado <br>
+✅ Banco de dados configurado <br>
+✅ Model, Controller e Migration criados <br>
+✅ Rotas funcionando <br>
+⏳ Próximo: criar as telas Blade com formulários e listagem <br>
 
