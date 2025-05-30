@@ -1,0 +1,17 @@
+# 🟦 PARTE 2: Laravel
+
+
+🧰 PRÉ-REQUISITOS
+Antes de começar, você precisa ter instalado:
+1. **PHP** (versão 8 ou superior)
+
+Composer (gerenciador de pacotes PHP) → https://getcomposer.org/
+
+Laravel Installer (opcional) ou usar via composer create-project
+
+MySQL ou MariaDB (via XAMPP, WAMP ou nativo)
+
+Terminal (CMD, PowerShell ou Git Bash)
+
+Se ainda não tiver o Composer ou PHP instalado, posso te guiar na instalação.
+
